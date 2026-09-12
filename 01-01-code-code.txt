@@ -1,0 +1,161 @@
+<div class="gate-card reveal" onclick="playGate(216,432,'Ishtar Gate',this)" style="border-color:rgba(0,150,255,.15);">
+  <div class="playing-badge">▶ OPEN</div>
+  <div class="gate-bar"><div class="gate-bar-fill" style="width:78%;background:linear-gradient(90deg,#0096ff,#00f5ff);"></div></div>
+  <div class="gate-icon">🔵</div>
+  <div class="gate-deity">Ishtar · Venus · Love & War · Sacred Number 15</div>
+  <div class="gate-name">The Ishtar Gate</div>
+  <div class="gate-freqs">
+    <div class="gf-row"><span class="gf-label">Primary</span><span class="gf-val" style="color:#4af;">216 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Harmonic</span><span class="gf-val" style="color:#4af;">432 Hz (octave)</span></div>
+    <div class="gf-row"><span class="gf-label">Sub drone</span><span class="gf-val" style="color:#4af;">27 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Venus synodic</span><span class="gf-val" style="color:#4af;">221.23 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Color</span><span class="gf-val" style="color:#4af;">Lapis Blue</span></div>
+  </div>
+  <div class="gate-info">216 Hz = 6×6×6 — also octave of 27 Hz — also matches Venus synodic period converted to Hz. Seven minutes of sustained 216 Hz + 432 Hz simultaneously. The most famous gate in the ancient world — blue glazed brick, 50 feet tall.</div>
+  <div class="gate-when">⏰ Opens: Venus visible at dawn · Face East · Duration 7 minutes</div>
+  <button class="gate-play-btn">▶ Play Ishtar Gate — 216 + 432 Hz</button>
+</div>
+
+<div class="gate-card reveal" onclick="playGate(183.58,367,'Marduk Gate',this)" style="border-color:rgba(255,215,0,.15);">
+  <div class="playing-badge">▶ OPEN</div>
+  <div class="gate-bar"><div class="gate-bar-fill" style="width:70%;background:linear-gradient(90deg,var(--gold),var(--amber));"></div></div>
+  <div class="gate-icon">🟡</div>
+  <div class="gate-deity">Marduk · Jupiter · Chief God · Sacred Number 50</div>
+  <div class="gate-name">The Marduk Gate</div>
+  <div class="gate-freqs">
+    <div class="gf-row"><span class="gf-label">Primary</span><span class="gf-val" style="color:var(--gold);">183.58 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Harmonic</span><span class="gf-val" style="color:var(--gold);">367.16 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Sub</span><span class="gf-val" style="color:var(--gold);">91.79 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Source</span><span class="gf-val" style="color:var(--gold);">Jupiter orbital</span></div>
+    <div class="gf-row"><span class="gf-label">Confirmed by</span><span class="gf-val" style="color:var(--gold);">Hans Cousto 1978</span></div>
+  </div>
+  <div class="gate-info">183.58 Hz is the audible octave of Jupiter's orbital frequency — confirmed by Hans Cousto's "The Cosmic Octave" 1978. Marduk's sacred number 50 × 3.67 = 183.5 Hz. The Chief God of Babylon had the strongest gate — requiring 50 repetitions of his name spoken at this frequency.</div>
+  <div class="gate-when">⏰ Opens: Solar noon · Spoken name 50 times at 183.58 Hz</div>
+  <button class="gate-play-btn">▶ Play Marduk Gate — 183.58 Hz</button>
+</div>
+
+<div class="gate-card reveal" onclick="playGate(144,288,'Nergal Gate',this)" style="border-color:rgba(255,34,0,.15);">
+  <div class="playing-badge">▶ OPEN</div>
+  <div class="gate-bar"><div class="gate-bar-fill" style="width:85%;background:linear-gradient(90deg,#aa0000,#ff2200);"></div></div>
+  <div class="gate-icon">🔴</div>
+  <div class="gate-deity">Nergal · Mars · God of Death · Sacred Number 14</div>
+  <div class="gate-name">The Nergal Gate</div>
+  <div class="gate-freqs">
+    <div class="gf-row"><span class="gf-label">Primary</span><span class="gf-val" style="color:#f55;">144 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Harmonic</span><span class="gf-val" style="color:#f55;">288 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">3rd oct</span><span class="gf-val" style="color:#f55;">432 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Drum bass</span><span class="gf-val" style="color:#f55;">36 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Significance</span><span class="gf-val" style="color:#f55;">144 = 12×12</span></div>
+  </div>
+  <div class="gate-info">144 Hz is profoundly significant — 12×12, Fibonacci convergence, 144,000 in Revelation. Third octave gives 432 Hz. The gate of death required drums at 36 Hz infrasound simultaneously — felt in the chest and bones. Only accessible during the Mars planetary hour in traditional timing.</div>
+  <div class="gate-when">⏰ Opens: Mars hour only · Red light present · Drums at 36 Hz</div>
+  <button class="gate-play-btn">▶ Play Nergal Gate — 144 Hz</button>
+</div>
+
+<div class="gate-card reveal" onclick="playGate(340,680,'Enlil Gate',this)" style="border-color:rgba(255,255,255,.1);">
+  <div class="playing-badge">▶ OPEN</div>
+  <div class="gate-bar"><div class="gate-bar-fill" style="width:60%;background:linear-gradient(90deg,#fff,#aaa);"></div></div>
+  <div class="gate-icon">⚪</div>
+  <div class="gate-deity">Enlil · Wind & Air · Storm God · Sacred Number 50</div>
+  <div class="gate-name">The Enlil Gate</div>
+  <div class="gate-freqs">
+    <div class="gf-row"><span class="gf-label">Primary</span><span class="gf-val" style="color:#ccc;">340 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Sub</span><span class="gf-val" style="color:#ccc;">50 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Overtone</span><span class="gf-val" style="color:#ccc;">880 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Source</span><span class="gf-val" style="color:#ccc;">Speed of sound</span></div>
+    <div class="gf-row"><span class="gf-label">Instrument</span><span class="gf-val" style="color:#ccc;">Wind only</span></div>
+  </div>
+  <div class="gate-info">340 Hz = speed of sound in air at 15°C, divided by 1. Enlil is the god of breath and wind — the gate frequency IS the speed of sound itself. Only wind instruments — no strings, no drums. Must be played in open air. The gate of air cannot be opened indoors.</div>
+  <div class="gate-when">⏰ Opens: Open air only · Wind instruments exclusively · No indoors</div>
+  <button class="gate-play-btn">▶ Play Enlil Gate — 340 Hz</button>
+</div>
+
+<div class="gate-card reveal" onclick="playGate(100,200,'Adad Gate',this)" style="border-color:rgba(50,50,100,.3);">
+  <div class="playing-badge">▶ OPEN</div>
+  <div class="gate-bar"><div class="gate-bar-fill" style="width:65%;background:linear-gradient(90deg,#224,#448);"></div></div>
+  <div class="gate-icon">⛈️</div>
+  <div class="gate-deity">Adad · Thunder & Storm · Lightning · Sacred Number 6</div>
+  <div class="gate-name">The Adad Gate</div>
+  <div class="gate-freqs">
+    <div class="gf-row"><span class="gf-label">Primary</span><span class="gf-val" style="color:#88f;">100 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Thunder</span><span class="gf-val" style="color:#88f;">40–80 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Lightning crack</span><span class="gf-val" style="color:#88f;">Broadband</span></div>
+    <div class="gf-row"><span class="gf-label">Rain layer</span><span class="gf-val" style="color:#88f;">Pink noise</span></div>
+    <div class="gf-row"><span class="gf-label">Opens during</span><span class="gf-val" style="color:#88f;">Actual storms</span></div>
+  </div>
+  <div class="gate-info">The storm itself was the key. 100 Hz matches thunder fundamental — Adad's sacred number 6 × 16.67 = 100 Hz. This gate opened naturally during storms — the thunder provided the frequency automatically. Priests timed rituals to storm seasons. Modern reconstruction: 100 Hz + pink noise + 40 Hz rumble.</div>
+  <div class="gate-when">⏰ Opens: During actual storms · Or: 100 Hz + pink noise + 40 Hz simultaneously</div>
+  <button class="gate-play-btn">▶ Play Adad Gate — 100 Hz</button>
+</div>
+
+<div class="gate-card reveal" onclick="playGate(126.22,252,'Shamash Gate',this)" style="border-color:rgba(255,200,0,.15);">
+  <div class="playing-badge">▶ OPEN</div>
+  <div class="gate-bar"><div class="gate-bar-fill" style="width:88%;background:linear-gradient(90deg,#ff8c00,var(--gold));"></div></div>
+  <div class="gate-icon">☀️</div>
+  <div class="gate-deity">Shamash · Sun God · Justice · Sacred Number 20</div>
+  <div class="gate-name">The Shamash Gate</div>
+  <div class="gate-freqs">
+    <div class="gf-row"><span class="gf-label">Primary</span><span class="gf-val" style="color:#ffa500;">126.22 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Harmonic</span><span class="gf-val" style="color:#ffa500;">252.44 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">3rd partial</span><span class="gf-val" style="color:#ffa500;">504.88 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Sub</span><span class="gf-val" style="color:#ffa500;">63.11 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Also called</span><span class="gf-val" style="color:#ffa500;">OM frequency</span></div>
+  </div>
+  <div class="gate-info">126.22 Hz is the audible octave of Earth's year — the frequency the Earth makes as it orbits the Sun, raised 32 octaves to audible range. Hans Cousto confirmed this as the "Om" frequency of the solar system. Shamash number 20 × 6.31 = 126.2 Hz. Only at sunrise or sunset. 20-minute duration.</div>
+  <div class="gate-when">⏰ Opens: Sunrise or Sunset only · Face the Sun · 20 minutes duration</div>
+  <button class="gate-play-btn">▶ Play Shamash Gate — 126.22 Hz</button>
+</div>
+
+<div class="gate-card reveal" onclick="playGate(210.42,420,'Sin Gate',this)" style="border-color:rgba(192,192,192,.15);">
+  <div class="playing-badge">▶ OPEN</div>
+  <div class="gate-bar"><div class="gate-bar-fill" style="width:72%;background:linear-gradient(90deg,#888,#ddd);"></div></div>
+  <div class="gate-icon">🌙</div>
+  <div class="gate-deity">Sin · Moon God · Sacred Number 30 · Silver</div>
+  <div class="gate-name">The Sin Gate</div>
+  <div class="gate-freqs">
+    <div class="gf-row"><span class="gf-label">Primary</span><span class="gf-val" style="color:#ddd;">210.42 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Harmonic</span><span class="gf-val" style="color:#ddd;">420.84 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Harmonic</span><span class="gf-val" style="color:#ddd;">841.68 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Sub</span><span class="gf-val" style="color:#ddd;">105.21 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Confirmed by</span><span class="gf-val" style="color:#ddd;">Hans Cousto</span></div>
+  </div>
+  <div class="gate-info">210.42 Hz is the audible octave of the Moon's orbital frequency — confirmed by Hans Cousto. Sin number 30 × 7.01 = 210.3 Hz. Female voice preferred — Moon is feminine principle. Silver bowl resonance. Only at full moon or new moon — never during other lunar phases. 30 repetitions.</div>
+  <div class="gate-when">⏰ Opens: Full moon or New moon only · Female voice · Silver bowl · 30 repetitions</div>
+  <button class="gate-play-btn">▶ Play Sin Gate — 210.42 Hz</button>
+</div>
+
+<div class="gate-card reveal" onclick="playGate(469.8,939,'Anu Gate',this)" style="border-color:rgba(168,85,247,.2);">
+  <div class="playing-badge">▶ OPEN</div>
+  <div class="gate-bar"><div class="gate-bar-fill" style="width:95%;background:linear-gradient(90deg,var(--purple),#ff00ff);"></div></div>
+  <div class="gate-icon">🌌</div>
+  <div class="gate-deity">Anu · Sky Father · Highest God · Sacred Number 60</div>
+  <div class="gate-name">The Anu Gate — The Hidden Gate</div>
+  <div class="gate-freqs">
+    <div class="gf-row"><span class="gf-label">Primary</span><span class="gf-val" style="color:var(--purple);">469.8 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Schumann base</span><span class="gf-val" style="color:var(--purple);">7.83 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Calculation</span><span class="gf-val" style="color:var(--purple);">7.83 × 60 = 469.8</span></div>
+    <div class="gf-row"><span class="gf-label">Harmonic</span><span class="gf-val" style="color:var(--purple);">939.6 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Adjacent</span><span class="gf-val" style="color:var(--purple);">963 Hz crown</span></div>
+  </div>
+  <div class="gate-info">This gate cannot be opened by a single person. Anu's sacred number 60 — the base of Sumerian mathematics. 7.83 Hz (Earth's Schumann resonance) × 60 = 469.8 Hz. Requires 60 voices in unison. Or: 469.8 Hz + 7.83 Hz sustained for exactly 60 minutes. This was never meant to be opened by humans alone.</div>
+  <div class="gate-when">⏰ Opens: 60 voices in unison · Or: 469.8 Hz + 7.83 Hz for 60 minutes · Never by one person</div>
+  <button class="gate-play-btn">▶ Play Anu Gate — 469.8 + 7.83 Hz</button>
+</div>
+
+<div class="gate-card reveal" onclick="playGate(256,512,'Gate of Nippur',this)" style="border-color:rgba(255,215,0,.12);">
+  <div class="playing-badge">▶ OPEN</div>
+  <div class="gate-bar"><div class="gate-bar-fill" style="width:82%;background:linear-gradient(90deg,var(--gold),#ffe066);"></div></div>
+  <div class="gate-icon">🏺</div>
+  <div class="gate-deity">Enlil's Throne · Nippur · True North</div>
+  <div class="gate-name">The Gate of Nippur — 256 Hz</div>
+  <div class="gate-freqs">
+    <div class="gf-row"><span class="gf-label">Primary</span><span class="gf-val" style="color:var(--gold);">256 Hz (C)</span></div>
+    <div class="gf-row"><span class="gf-label">Why 256</span><span class="gf-val" style="color:var(--gold);">2⁸ — Pure math C</span></div>
+    <div class="gf-row"><span class="gf-label">At 256 Hz</span><span class="gf-val" style="color:var(--gold);">A = 432 Hz exactly</span></div>
+    <div class="gf-row"><span class="gf-label">Harmonic</span><span class="gf-val" style="color:var(--gold);">512 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Orientation</span><span class="gf-val" style="color:var(--gold);">True North</span></div>
+  </div>
+  <div class="gate-info">256 Hz = 2⁸ — the most mathematically pure frequency. At this tuning, A = exactly 432 Hz. The gate of Nippur was oriented to true north — creating specific acoustic signature with north wind. Near the Euphrates, flowing water created a broadband field the gate could "tune" with. The gate hummed by itself when wind came from the north.</div>
+  <div class="gate-when">⏰ Opens: North wind · Water nearby · Scientific pitch C = 256 Hz</div>
+  <button class="gate-play-btn">▶ Play Nippur Gate — 256 Hz</button>
+</div>

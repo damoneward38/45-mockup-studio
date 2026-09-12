@@ -1,0 +1,102 @@
+<div class="gate-card reveal" onclick="playGate(210.42,420,'Gate of Ur',this)" style="border-color:rgba(192,192,192,.12);">
+  <div class="playing-badge">▶ OPEN</div>
+  <div class="gate-bar"><div class="gate-bar-fill" style="width:72%;background:linear-gradient(90deg,#888,#ddd);"></div></div>
+  <div class="gate-icon">🌙</div>
+  <div class="gate-deity">Sin · Moon Gate · Ziggurat of Ur · 2100 BCE</div>
+  <div class="gate-name">The Gate of Ur</div>
+  <div class="gate-freqs">
+    <div class="gf-row"><span class="gf-label">Primary</span><span class="gf-val" style="color:#ddd;">210.42 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Source</span><span class="gf-val" style="color:#ddd;">Moon orbital Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Instrument</span><span class="gf-val" style="color:#ddd;">Silver bowl + female voice</span></div>
+    <div class="gf-row"><span class="gf-label">Opens at</span><span class="gf-val" style="color:#ddd;">Lunar phases</span></div>
+  </div>
+  <div class="gate-info">The Ziggurat of Ur had a gate oriented to the moon. Tuned to 210.42 Hz — the moon's orbital frequency. The gate hummed by itself at certain lunar phases when wind passed through. Priests called this "Sin speaking." The gate resonated at its own frequency due to wind — confirming the tuning was deliberate.</div>
+  <div class="gate-when">⏰ Opens: New and Full moon only · Silver bowl · Female voice</div>
+  <button class="gate-play-btn">▶ Play Gate of Ur — 210.42 Hz</button>
+</div>
+
+<div class="gate-card reveal" onclick="playGate(528,1056,'Hebrew High Priest Gate',this)" style="border-color:rgba(255,215,0,.15);">
+  <div class="playing-badge">▶ OPEN</div>
+  <div class="gate-bar"><div class="gate-bar-fill" style="width:90%;background:linear-gradient(90deg,var(--gold),#ffe);"></div></div>
+  <div class="gate-icon">✡️</div>
+  <div class="gate-deity">Hebrew Temple · Holy of Holies · Jerusalem</div>
+  <div class="gate-name">The Gate of the Holy of Holies</div>
+  <div class="gate-freqs">
+    <div class="gf-row"><span class="gf-label">Bell frequency</span><span class="gf-val" style="color:var(--gold);">528 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Shofar</span><span class="gf-val" style="color:var(--gold);">125 Hz Tekiah</span></div>
+    <div class="gf-row"><span class="gf-label">Levitical song</span><span class="gf-val" style="color:var(--gold);">432 Hz base</span></div>
+    <div class="gf-row"><span class="gf-label">Source</span><span class="gf-val" style="color:var(--gold);">Exodus 28:33-34</span></div>
+  </div>
+  <div class="gate-info">The High Priest wore golden bells on the hem of his robe tuned to 528 Hz. Each step into the inner sanctuary rang the bells. The Temple was designed so these bells created a standing wave at 528 Hz inside the Holy of Holies. Exodus 28:33-34 describes them precisely. Only the High Priest on Yom Kippur — once per year.</div>
+  <div class="gate-when">⏰ Opens: Yom Kippur only · High Priest · Golden bells at 528 Hz · Specific garments</div>
+  <button class="gate-play-btn">▶ Play Holy of Holies — 528 Hz</button>
+</div>
+
+<div class="gate-card reveal" onclick="playGate(432,864,'Processional Way',this)" style="border-color:rgba(100,100,255,.15);">
+  <div class="playing-badge">▶ OPEN</div>
+  <div class="gate-bar"><div class="gate-bar-fill" style="width:65%;background:linear-gradient(90deg,#44f,#aaf);"></div></div>
+  <div class="gate-icon">🛤️</div>
+  <div class="gate-deity">Babylon · The Processional Way · 250 meters</div>
+  <div class="gate-name">The Processional Way — Acoustic Tube</div>
+  <div class="gate-freqs">
+    <div class="gf-row"><span class="gf-label">Tube resonance</span><span class="gf-val" style="color:#aaf;">0.686 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Marching cadence</span><span class="gf-val" style="color:#aaf;">2 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Length</span><span class="gf-val" style="color:#aaf;">250 meters</span></div>
+    <div class="gf-row"><span class="gf-label">Width</span><span class="gf-val" style="color:#aaf;">20 meters</span></div>
+    <div class="gf-row"><span class="gf-label">Wall height</span><span class="gf-val" style="color:#aaf;">12 meters</span></div>
+  </div>
+  <div class="gate-info">The entire 250-meter Processional Way was an acoustic instrument — a resonant tube. Marching footsteps at 120 BPM created 2 Hz combined with the tube's own resonance of 0.686 Hz. The result: full-body infrasound experience before reaching the Ishtar Gate. You felt the gate before you saw it. The approach itself was the first gate.</div>
+  <div class="gate-when">⏰ Always active when people march through it at cadence pace</div>
+  <button class="gate-play-btn">▶ Play Processional Way — 432 Hz</button>
+</div>
+
+<div class="gate-card reveal" onclick="playGate(963,1926,'Tibetan Gate',this)" style="border-color:rgba(168,85,247,.15);">
+  <div class="playing-badge">▶ OPEN</div>
+  <div class="gate-bar"><div class="gate-bar-fill" style="width:95%;background:linear-gradient(90deg,var(--purple),#ff88ff);"></div></div>
+  <div class="gate-icon">🏔️</div>
+  <div class="gate-deity">Tibet · Kalachakra · Inner Gate · Highest Access</div>
+  <div class="gate-name">The Tibetan Inner Gate — 963 Hz</div>
+  <div class="gate-freqs">
+    <div class="gf-row"><span class="gf-label">Primary</span><span class="gf-val" style="color:var(--purple);">963 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Bowl type</span><span class="gf-val" style="color:var(--purple);">7-metal alloy</span></div>
+    <div class="gf-row"><span class="gf-label">Source</span><span class="gf-val" style="color:var(--purple);">Kalachakra Tantra</span></div>
+    <div class="gf-row"><span class="gf-label">Preparation</span><span class="gf-val" style="color:var(--purple);">Years of initiation</span></div>
+  </div>
+  <div class="gate-info">The innermost gate of Tibetan temple complexes required 963 Hz sustained bowl tone. This is the crown frequency — the highest Solfeggio. Only accessible after years of initiation through all lower frequency gates. The Kalachakra Tantra describes the exact bowl composition and striking technique. Still practiced today by senior lamas.</div>
+  <div class="gate-when">⏰ Opens: Years of preparation required · Highest initiation only · Senior lamas</div>
+  <button class="gate-play-btn">▶ Play Tibetan Inner Gate — 963 Hz</button>
+</div>
+
+<div class="gate-card reveal" onclick="playGate(111,222,'Maltese Hypogeum',this)" style="border-color:rgba(0,245,255,.12);">
+  <div class="playing-badge">▶ OPEN</div>
+  <div class="gate-bar"><div class="gate-bar-fill" style="width:80%;background:linear-gradient(90deg,var(--cyan),#0066ff);"></div></div>
+  <div class="gate-icon">🏛️</div>
+  <div class="gate-deity">Malta · Hypogeum · Underground Chambers · 3600 BCE</div>
+  <div class="gate-name">The Maltese Hypogeum Gate — 111 Hz</div>
+  <div class="gate-freqs">
+    <div class="gf-row"><span class="gf-label">Chamber tuning</span><span class="gf-val" style="color:var(--cyan);">111 Hz exactly</span></div>
+    <div class="gf-row"><span class="gf-label">Effect</span><span class="gf-val" style="color:var(--cyan);">Prefrontal cortex off</span></div>
+    <div class="gf-row"><span class="gf-label">Confirmed by</span><span class="gf-val" style="color:var(--cyan);">Dr. Ian Cook UCLA 2008</span></div>
+    <div class="gf-row"><span class="gf-label">Depth</span><span class="gf-val" style="color:var(--cyan);">Underground — 5000 years old</span></div>
+  </div>
+  <div class="gate-info">The Maltese Hypogeum underground chambers were deliberately carved to resonate at exactly 111 Hz. Dr. Ian Cook (UCLA 2008) confirmed that 111 Hz switches off the prefrontal cortex and activates pure right-brain state. The ancient Maltese used this as a gate into altered consciousness — the chamber itself was the key. You entered the frequency by entering the room.</div>
+  <div class="gate-when">⏰ Opens: Any time — by entering the physical chamber · Or: sustained 111 Hz tone</div>
+  <button class="gate-play-btn">▶ Play Maltese Gate — 111 Hz</button>
+</div>
+
+<div class="gate-card reveal" onclick="playGate(396,792,'Gate of Ereshkigal',this)" style="border-color:rgba(80,0,80,.4);">
+  <div class="playing-badge">▶ OPEN</div>
+  <div class="gate-bar"><div class="gate-bar-fill" style="width:45%;background:linear-gradient(90deg,#330033,#660066);"></div></div>
+  <div class="gate-icon">⚫</div>
+  <div class="gate-deity">Ereshkigal · Queen of the Underworld · Lowest Gate</div>
+  <div class="gate-name">The Throne of Ereshkigal — The Final Stripping</div>
+  <div class="gate-freqs">
+    <div class="gf-row"><span class="gf-label">Frequency</span><span class="gf-val" style="color:#a0a;">396 Hz</span></div>
+    <div class="gf-row"><span class="gf-label">Solfeggio</span><span class="gf-val" style="color:#a0a;">Ut — Liberation</span></div>
+    <div class="gf-row"><span class="gf-label">Function</span><span class="gf-val" style="color:#a0a;">Final identity strip</span></div>
+    <div class="gf-row"><span class="gf-label">Reversal</span><span class="gf-val" style="color:#a0a;">396 → 963 ascent</span></div>
+  </div>
+  <div class="gate-info">The throne room of Ereshkigal is where Inanna arrived completely stripped of all frequencies. 396 Hz — the root Solfeggio — was the last frequency taken. This is both the lowest gate and the key to all restoration. The same frequency that strips at the bottom is the one that liberates on the way back up. This is the teaching: the bottom is the turning point.</div>
+  <div class="gate-when">⏰ The deepest point — where everything is stripped — the only gate that opens from below</div>
+  <button class="gate-play-btn">▶ Play Ereshkigal's Gate — 396 Hz</button>
+</div>
