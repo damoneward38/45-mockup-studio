@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<link rel="icon" href="data:,">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SHAAR — The Ancient Gates</title>
 <style>
@@ -54,8 +55,9 @@ footer{padding:40px 20px;text-align:center;font-size:11px;color:var(--muted)}
 <header>
   <div class="badge">✡ Sacred Acoustics Research Portal</div>
   <h1>שַׁעַר · THE <span class="hebrew">ANCIENT GATES</span></h1>
-  <div class="sub">Nine frequency signatures of the Mesopotamian temple gates — each one a real harmonic key</div>
+  <div class="sub">Nine tone profiles inspired by ancient gate traditions — symbolic audio, not evidence-based gate opening</div>
 </header>
+<div role="note" style="margin:8px 14px;padding:10px 14px;background:#252116;color:#fef3c7;border:1px solid #80651e;border-radius:8px;font-size:12px">AUDIO EXPERIENCE: these are generated tones paired with symbolic ancient-gate stories. No scientific evidence shows that tones open gates, activate brain regions, or unlock hidden abilities.</div>
 <main>
   <div class="sections-nav" id="sectionsNav"></div>
   <div class="gates-grid" id="gatesGrid"></div>
@@ -97,7 +99,7 @@ function tone(freq,pan){
   const osc2=audioCtx.createOscillator();osc2.type='sine';osc2.frequency.value=Math.min(freq,12000)+.1;
   const panner=audioCtx.createStereoPanner?audioCtx.createStereoPanner():null;
   osc.connect(gain);osc2.connect(gain);
-  if(panner){gain.connect(panner);panner.connect(master);}else{gain.connect(master);panner&&panner.pan.value=pan||0;}
+  if(panner){gain.connect(panner);panner.connect(master);}else{gain.connect(master);}
   osc.start();osc2.start();
   gain.gain.linearRampToValueAtTime(.6,audioCtx.currentTime+.8);
   return {osc,osc2,gain};
